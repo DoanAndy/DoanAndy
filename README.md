@@ -9,24 +9,45 @@ I graduated from college in 2006 with a certificate in web technology. I am curr
 In September of 2024 I will be actively searching for new employment opportunities as my current contract expires. My ideal role would be a SOC Analyst role for a small to medium sized firm but I am open to all opportunities. 
 
 ## Recent Education ✏️
-
-**Google Cybersecurity Certificate - December 29, 2023**
-
+<table>
+  <thead>
+   <tr>
+      <th colspan="2" align="left">
+        Google Cybersecurity Certificate - December 29, 2023
+      </th>
+   </tr>
+  </thead>
+  <tr>
+    <td width="40%"><img align="left" src="https://images.credly.com/size/340x340/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png"></td>
+    <td>
 The completion of eight courses developed by Google that included hands-on, practice based assessments designed to prepare students for entry level roles in cybersecurity. 
 
 Key concepts include the following:
-> Authentication, Cybersecurity Assessment, Information Assurance, Information Security, Information Systems, Intrusion Detection and IDS tools, Linux, Network Analyzer tools, Networks Security, NIST Cybersecurity Framework, Python, Risk Assessment, Risk management Framework, SIEM Tools, SQL, Threat Analysis, Vulnerability Assessments
+> Authentication, Cybersecurity Assessment, Information Assurance, Information Security, Information Systems, Intrusion Detection and IDS tools, Linux, Network Analyzer tools, Networks Security, NIST Cybersecurity Framework, Python, Risk Assessment, Risk management Framework, SIEM Tools, SQL, Threat Analysis, Vulnerability Assessments      
+    </td>
+  </tr>
+  
+</table>
 
-**Google Data Analytics Professional Certificate - November 09, 2023**
-
+<table>
+  <thead>
+   <tr>
+      <th colspan="2" align="left">
+        Google Data Analytics Professional Certificate - November 09, 2023
+      </th>
+   </tr>
+  </thead>
+  <tr>
+    <td width="40%"><img align="left" src="https://images.credly.com/size/340x340/images/d41de2b7-cbc2-47ec-bcf1-ebecbe83872f/GCC_badge_DA_1000x1000.png"></td>
+    <td>
 The completion of eight courses developed by Google that include hands-on, practice based assessments designed to prepare students for entry level roles in Data Analytics. 
 
 Key concepts include the following:
-> Data Aggregation, Data Analytics, Data Calculations, Data Cleaning, Data Ethics, Data Visualization, Presentations, Problem Solving, R, Spreadsheets, SQL, Structured Thinking
-
-## Certificates 📝
-![Google Data Analytics Professional Certificate](https://images.credly.com/size/340x340/images/d41de2b7-cbc2-47ec-bcf1-ebecbe83872f/GCC_badge_DA_1000x1000.png "Google Data Analytics Professional Certificate")
-![Google Cybersecurity Certificate](https://images.credly.com/size/340x340/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png "Google Cybersecurity Certificate")
+> Data Aggregation, Data Analytics, Data Calculations, Data Cleaning, Data Ethics, Data Visualization, Presentations, Problem Solving, R, Spreadsheets, SQL, Structured Thinking    
+    </td>
+  </tr>
+  
+</table>
 
 
 <!---
