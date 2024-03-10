@@ -4,7 +4,7 @@
 ## Hi my name is Andy! 👋
 Welcome to my GitHub profile! I am an aspiring cyber security professional. The last fifteen years of my career had me working in a large industrial setting. I have held various positions over this time period including operations manager, application training and support specialist, tech support call-center agent, and facility operations support specialist. My experiences include participation in numerous project teams in support of application roll-outs and new facility openings.
 
-I am currently preparing for the CompTIA Security+ certification followed by the CompTIA Project+ certification. I am also preparing to complete and document lab work I am doing to prove my abilities and to improve my skill set. 
+I graduated from college in 2006 with a certificate in web technology. I am currently preparing for the CompTIA Security+ certification followed by the CompTIA Project+ certification. I am also preparing to complete and document lab work I am doing to prove my abilities and to improve my skill set. 
 
 In September of 2024 I will be actively searching for new employment opportunities as my current contract expires. My ideal role would be a SOC Analyst role for a small to medium sized firm but I am open to all opportunities. 
 
