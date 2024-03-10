@@ -49,6 +49,18 @@ Key concepts include the following:
   
 </table>
 
+## Cybersecurity Projects 
+
+I will be documenting my cybersecurity lab work and linking it here. 
+
+Current Projects
+*[Active Directory](CyberSecurityProjects/Active_Directory/README.md)
+*[Network Monitoring](CyberSecurityProjects/Network_Monitoring/README.md)
+*[SOAR Implementation](CyberSecurityProjects/SOAR_Implementaion/README.md)
+
+
+
+
 
 <!---
 DoanAndy/DoanAndy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
