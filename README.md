@@ -19,7 +19,7 @@ In September of 2024 I will be actively searching for new employment opportuniti
   </thead>
   <tr>
     <td width="40%"><img align="left" src="https://images.credly.com/size/340x340/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png"></td>
-    <td>
+    <td valign="top">
 The completion of eight courses developed by Google that included hands-on, practice based assessments designed to prepare students for entry level roles in cybersecurity. 
 
 Key concepts include the following:
@@ -39,7 +39,7 @@ Key concepts include the following:
   </thead>
   <tr>
     <td width="40%"><img align="left" src="https://images.credly.com/size/340x340/images/d41de2b7-cbc2-47ec-bcf1-ebecbe83872f/GCC_badge_DA_1000x1000.png"></td>
-    <td>
+    <td valign="top">
 The completion of eight courses developed by Google that include hands-on, practice based assessments designed to prepare students for entry level roles in Data Analytics. 
 
 Key concepts include the following:
