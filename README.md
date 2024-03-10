@@ -55,9 +55,9 @@ I will be documenting my cybersecurity lab work and linking it here.
 
 Current Projects
 
-*[Active Directory](CyberSecurityProjects/Active_Directory/README.md)
-*[Network Monitoring](CyberSecurityProjects/Network_Monitoring/README.md)
-*[SOAR Implementation](CyberSecurityProjects/SOAR_Implementation/README.md)
+* [Active Directory](CyberSecurityProjects/Active_Directory/README.md)
+* [Network Monitoring](CyberSecurityProjects/Network_Monitoring/README.md)
+* [SOAR Implementation](CyberSecurityProjects/SOAR_Implementation/README.md)
 
 
 
