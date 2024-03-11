@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I am an aspiring cyber security professional. The 
 
 I graduated from college in 2006 with a certificate in web technology. I am currently preparing for the CompTIA Security+ certification followed by the CompTIA Project+ certification. I am also preparing to complete and document lab work I am doing to prove my abilities and to improve my skill set. 
 
-In September of 2024 I will be actively searching for new employment opportunities as my current contract expires. My ideal role would be a SOC Analyst role for a small to medium sized firm but I am open to all opportunities. 
+In September of 2024 I will be actively searching for new employment opportunities as my current contract expires. My ideal role would be a SOC Analyst for a small to medium sized firm but I am open to all opportunities. 
 
 ## Current Resume
 
