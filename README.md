@@ -8,6 +8,10 @@ I graduated from college in 2006 with a certificate in web technology. I am curr
 
 In September of 2024 I will be actively searching for new employment opportunities as my current contract expires. My ideal role would be a SOC Analyst role for a small to medium sized firm but I am open to all opportunities. 
 
+## Current Resume
+
+[RESUME](https://doanandy.github.io/resume/resume.pdf)
+
 ## Recent Education ✏️
 <table>
   <thead>
