@@ -1,5 +1,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-andydoan-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andydoan/)](https://www.linkedin.com/in/andydoan/)
 [![Gmail Badge](https://img.shields.io/badge/-andy.charles.doan-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:andy.charles.doan@gmail.com)](mailto:andy.charles.doan@gmail.com)
+[![GitHub Badge](https://img.shields.io/badge/-DoanAndy-black?style=flat&logo=GitHub&logoColor=white&link=https://github.com/DoanAndy)](https://github.com/DoanAndy)
 
 ## Hi my name is Andy! 👋
 Welcome to my GitHub profile! I am an aspiring cyber security professional. The last fifteen years of my career had me working in a large industrial setting. I have held various positions over this time period including operations manager, application training and support specialist, tech support call-center agent, and facility operations support specialist. My experiences include participation in numerous project teams in support of application roll-outs and new facility openings.
@@ -8,7 +9,7 @@ I graduated from college in 2006 with a certificate in web technology. I am curr
 
 In September of 2024 I will be actively searching for new employment opportunities as my current contract expires. My ideal role would be a SOC Analyst for a small to medium sized firm but I am open to all opportunities. 
 
-## Current Resume
+## Current Resume ⚓
 
 [RESUME](https://doanandy.github.io/resume/resume.pdf)
 
@@ -53,7 +54,7 @@ Key concepts include the following:
   
 </table>
 
-## Cybersecurity Projects 
+## Cybersecurity Projects 📽️
 
 I will be documenting my cybersecurity lab work and linking it here. 
 
