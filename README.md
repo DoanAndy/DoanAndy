@@ -2,6 +2,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-andy.charles.doan-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:andy.charles.doan@gmail.com)](mailto:andy.charles.doan@gmail.com)
 [![GitHub Badge](https://img.shields.io/badge/-DoanAndy-181717?style=flat&logo=GitHub&logoColor=white&link=https://github.com/DoanAndy)](https://github.com/DoanAndy)
 [![Personal Page](https://img.shields.io/badge/-AndyDoan-4285F4?style=flat&logo=googlechrome&logoColor=white&link=https://DoanAndy.github.io)](https://DoanAndy.github.io)
+[![X Badge](https://img.shields.io/badge/-AndyDoania-000000?style=flat&logo=x&logoColor=white&link=https://twitter.com/AndyDoania)]([https://DoanAndy.github.io](https://twitter.com/AndyDoania))
 
 ## Hi my name is Andy! 👋
 Welcome to my GitHub profile! I am an aspiring cyber security professional. The last fifteen years of my career had me working in a large industrial setting. I have held various positions over this time period including operations manager, application training and support specialist, tech support call-center agent, and facility operations support specialist. My experiences include participation in numerous project teams in support of application roll-outs and new facility openings.
