@@ -13,7 +13,7 @@ I graduated from college in 2006 with a certificate in web technology. I am curr
 
 In September of 2024 I will be actively searching for new employment opportunities as my current contract expires. My ideal role would be a SOC Analyst for a small to medium sized firm but I am open to all opportunities. 
 
-Please check out my personal page in GitHub.io for more details! [Personal Page](https://DoanAndy.github.io)
+Please check out my personal page at GitHub.io for more details! [Personal Page](https://DoanAndy.github.io)
 
 ## Current Resume ⚓
 
