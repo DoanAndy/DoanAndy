@@ -19,7 +19,26 @@ Please check out my personal page at GitHub.io for more details! [Personal Page]
 
 [RESUME](https://doanandy.github.io/resume/resume.pdf)
 
-## Recent Education ✏️
+## Recent Certifications ✏️
+<table>
+  <thead>
+   <tr>
+      <th colspan="2" align="left">
+        CompTIA Security+ - March 24, 2024
+      </th>
+   </tr>
+  </thead>
+  <tr>
+    <td width="40%"><img align="left" src="https://images.credly.com/size/340x340/images/74790a75-8451-400a-8536-92d792c5184a/CompTIA_Security_2Bce.png"></td>
+    <td valign="top">
+Earners of the CompTIA Security+ certification have the knowledge and skills necessary to perform core security functions required of any cybersecurity role. CompTIA Security+ professionals know how to identify and address potential threats, attacks and vulnerabilities and they have established techniques in risk management, risk mitigation, threat management and intrusion detection. 
+
+Key concepts include the following:
+> Access Control, CompTIA, Cryptography, Cyber Forensics, Data Security, Disaster Recovery Planning, Firewall Configuration, Malware Identification, Mobile Device Security, Network Security, Security Configuration, Security Policies, Threat Analysis, Threat Detection     
+    </td>
+  </tr>
+  
+</table>
 <table>
   <thead>
    <tr>
@@ -66,7 +85,7 @@ I will be documenting my cybersecurity lab work and linking it here.
 
 Current Projects
 
-* [Active Directory](https://doanandy.github.io/Projects/Active_Directory/)
+* [Fleet Tracker](https://doanandy.github.io/Projects/Fleet_tracker/)
 * [Network Monitoring](https://doanandy.github.io/Projects/Network_Monitoring/)
 * [SOAR Implementation](https://doanandy.github.io/Projects/SOAR_Implementation/)
 
