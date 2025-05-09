@@ -6,33 +6,27 @@
 [![Instagram Badge](https://img.shields.io/badge/-AndyDoania-E4405F?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/andydoania/)]([https://DoanAndy.github.io](https://www.instagram.com/andydoania/))
 
 
-## Hi, my name is Andy! 👋
+# Hi, my name is Andy! 👋
 
 Welcome to my GitHub profile! I’m a Continuous Improvement Specialist with a passion for cybersecurity and technology. With 16 years of experience in the transportation industry, I’ve developed a unique blend of operational expertise and technical skills—from web programming and data analysis to cybersecurity principles.
 
-# About Me
+## About Me
 
-    Current Role: Leveraging process optimization and technology to drive efficiency in my organization.
+* Current Role: Leveraging process optimization and technology to drive efficiency in my organization.
+* Technical Focus: Actively expanding my cybersecurity knowledge (studying for CompTIA Security+) and refining my skills through hands-on labs and projects.
+* Background: Former operations manager, application support specialist, and tech support professional with a certificate in Web Technology (2006).
+* Future Goals: I am extremely happy and fulfilled in my current role but I am always looking for my next challenge!
+    
+## What I’m Up To
 
-    Technical Focus: Actively expanding my cybersecurity knowledge (studying for CompTIA Security+) and refining my skills through hands-on labs and projects.
+* 🛠️ Building a cybersecurity lab portfolio to demonstrate my skills in threat detection, network analysis, and tooling (SIEM, Wireshark, etc.).
+* 📜 Pursuing CompTIA Security+ and Project+ certifications to formalize my knowledge.
+* 🤝 Open to opportunities in cybersecurity, especially roles that value diverse operational experience and problem-solving skills.
 
-    Background: Former operations manager, application support specialist, and tech support professional with a certificate in Web Technology (2006).
+## Let’s Connect!
 
-    Future Goals: I am extremely happy and fulfilled in my current role but I am always looking for my next challenge!
-
-# What I’m Up To
-
-    🛠️ Building a cybersecurity lab portfolio to demonstrate my skills in threat detection, network analysis, and tooling (SIEM, Wireshark, etc.).
-
-    📜 Pursuing CompTIA Security+ and Project+ certifications to formalize my knowledge.
-
-    🤝 Open to opportunities in cybersecurity, especially roles that value diverse operational experience and problem-solving skills.
-
-# Let’s Connect!
-
-    🌐 Check out my GitHub.io page for project details.
-
-    📫 Reach out for collaborations or discussions about cybersecurity, process improvement, or tech support best practices! [Personal Page](https://DoanAndy.github.io)
+* 🌐 Check out my GitHub.io page for project details.
+* 📫 Reach out for collaborations or discussions about cybersecurity, process improvement, or tech support best practices! [Personal Page](https://DoanAndy.github.io)
 
 ## Current Resume ⚓
 
