@@ -6,14 +6,33 @@
 [![Instagram Badge](https://img.shields.io/badge/-AndyDoania-E4405F?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/andydoania/)]([https://DoanAndy.github.io](https://www.instagram.com/andydoania/))
 
 
-## Hi my name is Andy! 👋
-Welcome to my GitHub profile! I am an aspiring cyber security professional. The last fifteen years of my career had me working in a large industrial setting. I have held various positions over this time period including operations manager, application training and support specialist, tech support call-center agent, and facility operations support specialist. My experiences include participation in numerous project teams in support of application roll-outs and new facility openings.
+## Hi, my name is Andy! 👋
 
-I graduated from college in 2006 with a certificate in web technology. I am currently preparing for the CompTIA Security+ certification followed by the CompTIA Project+ certification. I am also preparing to complete and document lab work I am doing to prove my abilities and to improve my skill set. 
+Welcome to my GitHub profile! I’m a Continuous Improvement Specialist with a passion for cybersecurity and technology. With 16 years of experience in the transportation industry, I’ve developed a unique blend of operational expertise and technical skills—from web programming and data analysis to cybersecurity principles.
 
-In September of 2024 I will be actively searching for new employment opportunities as my current contract expires. My ideal role would be a SOC Analyst for a small to medium sized firm but I am open to all opportunities. 
+# About Me
 
-Please check out my personal page at GitHub.io for more details! [Personal Page](https://DoanAndy.github.io)
+    Current Role: Leveraging process optimization and technology to drive efficiency in my organization.
+
+    Technical Focus: Actively expanding my cybersecurity knowledge (studying for CompTIA Security+) and refining my skills through hands-on labs and projects.
+
+    Background: Former operations manager, application support specialist, and tech support professional with a certificate in Web Technology (2006).
+
+    Future Goals: I am extremely happy and fulfilled in my current role but I am always looking for my next challenge!
+
+# What I’m Up To
+
+    🛠️ Building a cybersecurity lab portfolio to demonstrate my skills in threat detection, network analysis, and tooling (SIEM, Wireshark, etc.).
+
+    📜 Pursuing CompTIA Security+ and Project+ certifications to formalize my knowledge.
+
+    🤝 Open to opportunities in cybersecurity, especially roles that value diverse operational experience and problem-solving skills.
+
+# Let’s Connect!
+
+    🌐 Check out my GitHub.io page for project details.
+
+    📫 Reach out for collaborations or discussions about cybersecurity, process improvement, or tech support best practices! [Personal Page](https://DoanAndy.github.io)
 
 ## Current Resume ⚓
 
